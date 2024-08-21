@@ -2,5 +2,5 @@
 - 👀 I’m interested in Frontend Developing
 - 🌱 I’m currently learning HTML, CSS, Js
 - 💞️ I’m looking to collaborate on Figma
-- 📫 How to reach me [ Email @syerilazalea20@gmail.com ] 
+- 📫 How to reach me [ Email syerilazalea20@gmail.com ] 
 - 😄 Pronouns: She / Her
