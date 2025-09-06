@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syerilazalea
 - 👀 I’m interested in Frontend Developing
-- 🌱 I’m currently learning HTML, CSS, Js
-- 💞️ I’m looking to collaborate on Figma
+- 🌱 I’m currently learning HTML, CSS, React
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me [ Email syerilazalea20@gmail.com ] 
 - 😄 Pronouns: She / Her
